@@ -6,7 +6,7 @@
       "ES2020"
     ],
     "types": [
-      "@cloudflare/workers-types"
+      "@cloudflare/workers-types/2021-11-03"
     ]
   }
 }
