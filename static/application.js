@@ -286,7 +286,7 @@ haste.prototype.configureButtons = function() {
     },
     {
       $where: $('#box2 .duplicate'),
-      label: 'Duplicate & Edit',
+      label: 'Duplicatsss & Edit',
       shortcut: function(evt) {
         return _this.doc.locked && evt.ctrlKey && evt.keyCode === 68;
       },
